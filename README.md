@@ -5,7 +5,7 @@
 
 ### About-me
 Here i’m @FireguiQueen, but you can call me Guilherme :)</br>
-I started programming in Python when i was 13 years old, and since 2019 i'm interested in web development. 
+I started programming in Python when i was 13 years old, and since 2019 i've been interested in web development. 
 
 
 ### - 📫 Contact-me
