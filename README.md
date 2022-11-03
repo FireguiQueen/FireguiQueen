@@ -5,10 +5,12 @@
 
 ### :grin: About-me
 Here i’m @FireguiQueen, but you can call me Guilherme :)</br>
-I started programming in Python when i was 13 years old, and since 2019 i've been interested in web development. 
+I started programming in Python as a hobby when i was 13 years old, and since 2019 i've been interested in web development.
+My focous is to three tecnolgies: HTML ; CSS & JS  
 
-## Do u wanna talk or something? 
-### 📫 Contact-me
+
+## Do u wanna hang out? 
+### 📫 Contact-me! 
 + Email: *fireguiquen@pronton.me*
 + Whatsapp: *+55 (24) 9996-63607*
 + Discord: *Just a Hydrogen viewer#0731*
