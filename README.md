@@ -6,7 +6,7 @@
 ### :grin: About-me
 Here i’m @FireguiQueen, but you can call me Guilherme :)</br>
 I started programming in Python as a hobby when i was 13 years old, and since 2019 i've been interested in web development.
-My focous is to three tecnolgies: HTML ; CSS & JS  
+As you can see, my focus is on three technologies: HTML ; CSS & JS
 
 
 ## Do u wanna hang out? 
