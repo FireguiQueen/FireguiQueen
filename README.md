@@ -7,7 +7,7 @@
 Here i’m @FireguiQueen, but you can call me Guilherme :)</br>
 I started programming in Python when i was 13 years old, and since 2019 i've been interested in web development. 
 
-
+##Do u wanna talk or something? 
 ### 📫 Contact-me
 + Email: *fireguiquen@pronton.me*
 + Whatsapp: *+55 (24) 9996-63607*
