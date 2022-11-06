@@ -1,8 +1,6 @@
-![Welcome!!](https://user-images.githubusercontent.com/98475125/199620350-dbfb4e54-a6a2-43af-80de-a7dbe17de53b.gif)
 
 
-![Warrior getting rest](https://user-images.githubusercontent.com/98475125/200196718-8b08bb97-e64f-409a-a56d-69d562d914d1.gif)
-
+![Warrior gif - DarkSouls](https://user-images.githubusercontent.com/98475125/200197003-0ce7384b-7a7c-4314-b426-7ab87cfda2ad.gif)
 
 ### :grin: About-me
 Here i’m @FireguiQueen, but you can call me Guilherme :) </br>
