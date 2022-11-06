@@ -1,4 +1,6 @@
-![Warrior gif - DarkSouls](https://user-images.githubusercontent.com/98475125/200197003-0ce7384b-7a7c-4314-b426-7ab87cfda2ad.gif)
+<p align="left">
+  <img src="https://i.imgur.com/cEZ7R4g.gif" alt="Dark Souls - Pixel Art Gif" title="Dark Souls Warrior Pixel Art"/>
+</p>
 
 ## :grin: About me
 Here i’m @FireguiQueen, but you can call me Guilherme :) </br>
