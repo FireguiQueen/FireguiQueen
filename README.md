@@ -1,5 +1,3 @@
-
-
 ![Warrior gif - DarkSouls](https://user-images.githubusercontent.com/98475125/200197003-0ce7384b-7a7c-4314-b426-7ab87cfda2ad.gif)
 
 ### :grin: About-me
