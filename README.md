@@ -1,6 +1,7 @@
 ![Welcome!!](https://user-images.githubusercontent.com/98475125/199620350-dbfb4e54-a6a2-43af-80de-a7dbe17de53b.gif)
 
-![Warrior final](https://user-images.githubusercontent.com/98475125/199622203-8b2cbd05-e504-4ff3-b0bd-ca7e677d54e0.gif)
+
+![Warrior getting rest](https://user-images.githubusercontent.com/98475125/200196718-8b08bb97-e64f-409a-a56d-69d562d914d1.gif)
 
 
 ### :grin: About-me
