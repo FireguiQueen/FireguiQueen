@@ -7,7 +7,7 @@ As you can see, my focus is on three technologies: HTML ; CSS & JS
 
 
 ## Do u wanna hang out? 
-### 📫 Contact-me! 
+### 📫 Contact me! 
 + Email: *fireguiquen@pronton.me*
 + Whatsapp: *+55 (24) 9996-63607*
 + Discord: *Just a Hydrogen viewer#0731*
