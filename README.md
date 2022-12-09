@@ -27,8 +27,9 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 
 <div align="center" target="_blank">
   <h1>Social media</h1>
-  <a href ="mailto: fireguiqueen@proton.me"  target="_blank"> <img width="40" src="proton.svg"/> &nbsp;&nbsp; </a>
-  <a href="https://twitter.com/FirePlayerWr" target="_blank"> <img width="40" src="twitter.svg"/>&nbsp;&nbsp; </a>
+  <a href ="mailto: fireguiqueen@proton.me"  target="_blank"> &nbsp;&nbsp; </a>
+  <a href="https://twitter.com/FirePlayerWr" target="_blank"> ![discord](https://user-images.githubusercontent.com/98475125/206796646-362053e8-259a-47c8-a351-8a39cf666979.svg)
+</a>
   </a> <a href ="https://discord.com/users/402168526112292864" target="_blank"> <img width="40" src="discord.svg"> &nbsp;&nbsp;</a>
 </div>
 
@@ -36,3 +37,10 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 FireguiQueen/FireguiQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
