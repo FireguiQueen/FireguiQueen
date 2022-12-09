@@ -8,6 +8,8 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 As you can see, my focus for now is on three technologies: HTML ; CSS & JS </br>
 If u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
+<img src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=vision-friendly-dark"/>
+
 ## Do u wanna hang out? 
 ### 📫 Contact me! 
 + Email: *fireguiquen@pronton.me*
