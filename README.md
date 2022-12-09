@@ -27,7 +27,7 @@ If u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
 
 <div align="center">
-  <h1>Redes Sociais</h1>
+  <h1>Social media</h1>
   <a href ="mailto: fireguiqueen@proton.me"> <img width="30" src="proton.svg"/> </a>
   <a href="https://twitter.com/FirePlayerWr"> <img width="25" src="twitter.svg"/> </a>
   </a> <a href ="https://discord.com/users/402168526112292864"> <img width="25" src="discord.svg"> </a>
