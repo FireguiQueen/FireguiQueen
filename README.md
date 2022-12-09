@@ -25,7 +25,7 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 + Twitter: *@Fireplayerwr*
 
 
-<div align="center">
+<div align="center" target="_blank">
   <h1>Social media</h1>
   <a href ="mailto: fireguiqueen@proton.me"> <img width="40" src="proton.svg"/> &nbsp;&nbsp; </a>
   <a href="https://twitter.com/FirePlayerWr"> <img width="40" src="twitter.svg"/>&nbsp;&nbsp; </a>
