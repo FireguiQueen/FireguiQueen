@@ -26,6 +26,22 @@ If u see any grammatical problems in my read-me tell-me, i'll appreciate that
 + Twitter: *@Fireplayerwr*
 
 
+<h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: fireguiqueen@proton.me>
+      <img width="30" src="gmail.svg">
+      
+    </a>
+    <a href="https://twitter.com/FirePlayerWr">
+      <img width="25" src="twitter.svg">
+    </a>
+    
+    </a>
+    <a href = "discord">
+      <img width="25" src="discord.svg">
+    </a>
+</div>
+
+
 <!---
 FireguiQueen/FireguiQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
