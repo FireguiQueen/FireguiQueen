@@ -4,8 +4,7 @@
 
 ## :grin: About me
 Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
-I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development. </br>
-If u see any grammatical problems in my read-me tell-me, i'll appreciate that
+I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development. Btw if u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula" alt="Stats"/>
@@ -28,9 +27,9 @@ If u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
 <div align="center">
   <h1>Social media</h1>
-  <a href ="mailto: fireguiqueen@proton.me"> <img width="30" src="proton.svg"/> </a>
-  <a href="https://twitter.com/FirePlayerWr"> <img width="25" src="twitter.svg"/> </a>
-  </a> <a href ="https://discord.com/users/402168526112292864"> <img width="25" src="discord.svg"> </a>
+  <a href ="mailto: fireguiqueen@proton.me"> <img width="40" src="proton.svg"/> </a>
+  <a href="https://twitter.com/FirePlayerWr"> <img width="40" src="twitter.svg"/> </a>
+  </a> <a href ="https://discord.com/users/402168526112292864"> <img width="40" src="discord.svg"> </a>
 </div>
 
 <!---
