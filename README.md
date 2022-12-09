@@ -8,8 +8,8 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 If u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
 <div>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula" alt="Stats"/>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula" alt="Stats"/>
+  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/>
 </div>
 
 ## Studying 
