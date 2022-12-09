@@ -27,9 +27,9 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 
 <div align="center" target="_blank">
   <h1>Social media</h1>
-  <a href ="mailto: fireguiqueen@proton.me"> <img width="40" src="proton.svg"/> &nbsp;&nbsp; </a>
-  <a href="https://twitter.com/FirePlayerWr"> <img width="40" src="twitter.svg"/>&nbsp;&nbsp; </a>
-  </a> <a href ="https://discord.com/users/402168526112292864"> <img width="40" src="discord.svg"> &nbsp;&nbsp;</a>
+  <a href ="mailto: fireguiqueen@proton.me"  target="_blank"> <img width="40" src="proton.svg"/> &nbsp;&nbsp; </a>
+  <a href="https://twitter.com/FirePlayerWr" target="_blank"> <img width="40" src="twitter.svg"/>&nbsp;&nbsp; </a>
+  </a> <a href ="https://discord.com/users/402168526112292864" target="_blank"> <img width="40" src="discord.svg"> &nbsp;&nbsp;</a>
 </div>
 
 <!---
