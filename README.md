@@ -1,3 +1,9 @@
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
+
 <p align="left">
   <img src="https://i.imgur.com/cEZ7R4g.gif" alt="Dark Souls - Pixel Art Gif" title="Dark Souls Warrior Pixel Art"/>
 </p>
@@ -31,6 +37,7 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
   <a href="https://twitter.com/FirePlayerWr"> <img width="40" src="./icons/twitter.svg"> &nbsp;&nbsp;&nbsp; </a>
   </a> <a href ="https://discord.com/users/402168526112292864"> <img width="40" src="./icons/discord.svg">&nbsp;&nbsp;&nbsp; </a>
 </div>
+
 
 
 
