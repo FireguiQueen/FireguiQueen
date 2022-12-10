@@ -1,9 +1,3 @@
-<style>
-  a{
-    text-decoration: none;
-  }
-</style>
-
 <p align="left">
   <img src="https://i.imgur.com/cEZ7R4g.gif" alt="Dark Souls - Pixel Art Gif" title="Dark Souls Warrior Pixel Art"/>
 </p>
