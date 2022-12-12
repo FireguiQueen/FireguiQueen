@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/cEZ7R4g.gif" alt="Dark Souls - Pixel Art Gif" title="Dark Souls Warrior Pixel Art"/>
 </p>
 
-## :grin: About me
+## :octocat: About me
 Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
 I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development. Btw if u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
@@ -11,7 +11,7 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
   <img align="right" height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=16&theme=dracula" alt="most used languages"/>
 </div>
 
-## :book: What I've been studying
+## :space_invader: What I've been studying
 + ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 + ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 + ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
