@@ -12,17 +12,10 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 </div>
 
 ## What I've been studying
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
++ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
++ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
++ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-
-## Do u wanna hang out? 
-### 📫 Contact me! 
-+ Email: *fireguiquen@pronton.me*
-+ Whatsapp: *+55 (24) 9996-63607*
-+ Discord: *Just a Hydrogen viewer#0731*
-+ Twitter: *@Fireplayerwr*
 
 
 <div align="center">
