@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="https://i.imgur.com/cEZ7R4g.gif" alt="Dark Souls - Pixel Art Gif" title="Dark Souls Warrior Pixel Art"/>
-</p>
+
+  ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif)
+
 
 ## :smiley: About me
 Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
