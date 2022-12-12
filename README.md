@@ -11,6 +11,8 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+</br> 
+
 ## :space_invader: What I've been studying
 + ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 + ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
