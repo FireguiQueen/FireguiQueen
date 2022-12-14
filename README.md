@@ -6,13 +6,14 @@
 Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
 I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development. Btw if u see any grammatical problems in my read-me tell-me, i'll appreciate that
 
+<!-- 
 <div align="center">
   <a href="https://github.com/FireguiQueen"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img align="right" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
+--> 
 </br> 
 
 ## :space_invader: What I've been studying
