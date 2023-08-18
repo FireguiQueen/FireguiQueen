@@ -31,7 +31,6 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
   <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="60" height="53" src="./icons/proton.svg">&nbsp;&nbsp;&nbsp; </a>
   <a href="https://twitter.com/FirePlayerWr"> <img title="Twitter" width="60" src="./icons/twitter.svg"> &nbsp;&nbsp;&nbsp; </a>
   <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="64" src="./icons/discord.svg">&nbsp;&nbsp;&nbsp; </a>
-  <a href="https://api.whatsapp.com/send?phone=5524999663607&text=Hi,%20i%20want%20to%20give%20u%20all%20my%20money%20"> <img title="Whatsapp" width="60" src="./icons/whatsapp.svg"> &nbsp;&nbsp;&nbsp; </a>
 </div>
 
 
