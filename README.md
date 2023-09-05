@@ -16,7 +16,8 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 <details>
   <summary>Other Educational Pursuits </summary>
   <ul>
-    <li> aa</li>
+    <li>Math Mastery: Fundamentals to Advanced</li>
+    <li>Basics: Javascript-Typescript--Node-Express-noSQL</li>
   </ul>
 </details>
 
