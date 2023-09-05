@@ -2,9 +2,11 @@
   ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif)
 
 
-## :smiley: About me
-Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
-I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development.
+# :smiley: About me
+_Here i’m @FireguiQueen, but you can call me Guilherme =)_ 
+
+## About My Programming Path
+I began my programming journey with Python as a hobby at the age of 13, although regrettably, I temporarily paused this pursuit. However, since 2019, I have been dedicated to the study of back-end technologies. I firmly believe that mathematics is a fundamental cornerstone for any programmer, and as a result, you can anticipate finding repositories related to mathematics on my GitHub.
 
 </br>
 
