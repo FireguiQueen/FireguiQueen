@@ -33,9 +33,9 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 </br> 
 
 ## :space_invader: Knowledge in
-+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-+ ![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.JS)&nbsp;
-+ ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.JS)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 
 
 
