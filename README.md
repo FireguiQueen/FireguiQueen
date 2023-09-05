@@ -14,7 +14,7 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 - Digital Circuits
 
 <details>
-  <sumary>Other Educational Pursuits </sumary>
+  <summary>Other Educational Pursuits </summary>
   <ul>
     <li> aa</li>
   </ul>
