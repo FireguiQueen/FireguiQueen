@@ -44,8 +44,11 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
   <h1> Let's connect </h1> 
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="60" height="53" src="./icons/proton.svg">&nbsp;&nbsp;&nbsp; </a>
-  <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="60" src="./icons/telegram.svg"> &nbsp;&nbsp;&nbsp; </a>
+  
+  <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="57" src="./icons/telegram.svg"> &nbsp;&nbsp;&nbsp; </a>
+  
   <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="64" src="./icons/discord.svg">&nbsp;&nbsp;&nbsp; </a>
+  
 </div>
 
 
