@@ -13,6 +13,13 @@ I started programming in Python as a hobby when i was 13 years old (but unfortun
 - Computer Science Mathematical Fundamentals
 - Digital Circuits
 
+<details>
+  <sumary>Other Educational Pursuits </sumary>
+  <ul>
+    <li> aa</li>
+  </ul>
+</details>
+
 
 <!-- 
 <div align="center">
