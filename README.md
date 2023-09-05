@@ -6,6 +6,13 @@
 Here i’m @FireguiQueen, but you can call me Guilherme =) </br>
 I started programming in Python as a hobby when i was 13 years old (but unfortunately i stopped), and since 2019 i've been interested in web development.
 
+</br>
+## 👨‍🎓 Core Education
+- Computer Science 50 (CS50 - Harvard) 
+- Computer Science Mathematical Fundamentals
+- Digital Circuits
+
+
 <!-- 
 <div align="center">
   <a href="https://github.com/FireguiQueen"> 
