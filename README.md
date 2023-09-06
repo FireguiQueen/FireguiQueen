@@ -21,7 +21,11 @@ I began my programming journey with Python as a hobby at the age of 13, although
   <summary>Other Educational Pursuits </summary>
   <ul>
     <li>Math Mastery: Fundamentals to Advanced</li>
-    <li>Basics: Javascript-Typescript--Node-Express-noSQL</li>
+    <li>JavaScript & TypeScript course</li>
+    <li>Rocketseat discover: fundamentar</li>
+    <li>Rocketseat discover: conectar</li>
+
+
   </ul>
 </details>
 
