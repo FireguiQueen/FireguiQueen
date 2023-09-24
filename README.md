@@ -46,6 +46,8 @@ I began my programming journey with Python as a hobby at the age of 13, although
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 
 
+</br>
+</br>
 
 
 <div align="center">
