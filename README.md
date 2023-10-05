@@ -13,9 +13,9 @@ I began my programming journey with Python as a hobby at the age of 13, although
 </br>
 
 ## 👨‍🎓 Core Education
-- Computer Science 50 (CS50 - Harvard) 
+- Havard - Computer Science 50 (CS50) 
 - Computer Science Mathematical Fundamentals
-- Digital Circuits
+- UFFS -Digital Circuits
 
 <details>
   <summary>Other Educational Pursuits </summary>
