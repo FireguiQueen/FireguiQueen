@@ -56,6 +56,8 @@ I began my programming journey with Python as a hobby at the age of 13, although
   
 </div>
 
+There was an error committing your changes: File could not be edited
+
 
 
 <!---
