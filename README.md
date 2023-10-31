@@ -66,7 +66,7 @@ I began my programming journey with Python as a hobby at the age of 13, although
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="80" src="./icons/proton.svg"></a>
   <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="80" src="./icons/telegram.svg"></a>
-  <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="80" src="./icons/discodrd.svg"></a>
+  <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="80" src="./icons/discord.svg"></a>
   
 </div>
 
