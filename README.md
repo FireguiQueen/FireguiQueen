@@ -34,7 +34,7 @@ I began my programming journey with Python as a hobby at the age of 13, although
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![HTML](https://img.shields.io/badge/html-%23008080.svg?style=for-the-badge&logo=html&logoColor=red)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
