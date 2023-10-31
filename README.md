@@ -2,6 +2,8 @@
   ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif)
 
 
+
+<!-- ABOUT ME -->
 # :smiley: About me
 _Here i’m @FireguiQueen, but you can call me Guilherme =)_ 
 
@@ -21,26 +23,11 @@ I began my programming journey with Python as a hobby at the age of 13, although
     <li>JavaScript & TypeScript course</li>
     <li>Rocketseat discover: fundamentar</li>
     <li>Rocketseat discover: conectar</li>
-
-
   </ul>
 </details>
 
 
-<!-- 
-<div align="center">
-  <a href="https://github.com/FireguiQueen"> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img align="right" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
---> 
-</br> 
 
-## :space_invader: Knowledge in
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.JS)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 
 
 </br>
@@ -58,16 +45,32 @@ I began my programming journey with Python as a hobby at the age of 13, although
 
 </br>
 
+_______________________
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
 
 
 
-<!---
-FireguiQueen/FireguiQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+
+
+
+
+<!-- 
+<div align="center">
+  <a href="https://github.com/FireguiQueen"> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img align="right" height="147em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+// OLD VERSION
+## :space_invader: Knowledge in
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.JS)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
+-->  
 
 
 
