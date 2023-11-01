@@ -9,14 +9,13 @@ _Here i’m @FireguiQueen, but you can call me Guilherme =)_
 
 I began my programming journey with Python as a hobby at the age of 13, although regrettably, I temporarily paused this pursuit. However, since 2019, I have been dedicated to the study of back-end technologies. I firmly believe that mathematics is a fundamental cornerstone for any programmer, and as a result, you can anticipate finding repositories related to mathematics on my GitHub.
 
-</br>
-
+<!--
 ## 👨‍🎓 Core Education
 - Havard - _Computer Science 50 (CS50)_ 
 - UFFS - _Digital Circuits_
 - Computer Science Mathematical Fundamentals
 
-<!--
+
 <details>
   <summary>Other Educational Pursuits </summary>
   <ul>
@@ -27,6 +26,7 @@ I began my programming journey with Python as a hobby at the age of 13, although
   </ul>
 </details>
 -->
+
 </br>
 
 ## Skills
