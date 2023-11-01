@@ -4,7 +4,11 @@
 ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89)
 
 <!-- ABOUT ME -->
-# Hi there 👋, I'm Guilherme
+# Hello there 👋, I'm Guilherme
+I began my programming journey at the age of 13. I started with python but it was just a hobby. However, since 2019, I've been decicated to the back-end development. 
+
+### Hobbies 
+
 I began my programming journey with Python as a hobby at the age of 13, although regrettably, I temporarily paused this pursuit. However, since 2019, I have been dedicated to the study of back-end technologies. I firmly believe that mathematics is a fundamental cornerstone for any programmer, and as a result, you can anticipate finding repositories related to mathematics on my GitHub.
 
 
