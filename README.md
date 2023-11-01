@@ -1,5 +1,8 @@
   ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif)
 
+  ![dd](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/8e8abdca-ee12-4672-8f9f-eb2cb9179dfb)
+
+
 
 
 <!-- ABOUT ME -->
