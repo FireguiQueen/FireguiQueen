@@ -6,7 +6,13 @@
 <!-- ![tenor](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/b97b8fe2-d8bc-4ab9-96fa-ecbcdbffd851) --> 
 
 
-![opp](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/092bbae0-c85e-4bbf-9458-fa307904ad8e)
+<!-- ![opp](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/092bbae0-c85e-4bbf-9458-fa307904ad8e) --> 
+
+
+
+https://github.com/FireguiQueen/FireguiQueen/assets/98475125/8cc1fd16-0a03-4ffb-9048-a3b23735f299
+
+
 
 
    
