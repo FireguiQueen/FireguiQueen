@@ -1,8 +1,5 @@
 <!-- ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89) -->
 
-![ezgif com-crop](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322)
-
-
 <!-- ABOUT ME -->
 # :smiley: About me
 _Here i’m @FireguiQueen, but you can call me Guilherme =)_ 
@@ -87,7 +84,8 @@ _______________________
 
 
 <!-- 
- <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
+  <!-- ![FireguiQueen - cyberpunk](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322) -->
+  <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
  
 <div align="center">
   <a href="https://github.com/FireguiQueen"> 
