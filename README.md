@@ -1,6 +1,4 @@
- <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) -->
- 
-![Fireguiqueen](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/086b864e-ada4-434c-a25a-c3bef2796078)
+![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89)
 
 
 <!-- ABOUT ME -->
@@ -87,6 +85,8 @@ _______________________
 
 
 <!-- 
+ <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
+ 
 <div align="center">
   <a href="https://github.com/FireguiQueen"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
