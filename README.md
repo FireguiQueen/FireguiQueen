@@ -66,19 +66,12 @@ I began my programming journey with Python as a hobby at the age of 13, although
   <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="80" src="./icons/proton.svg"></a>
   <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="80" src="./icons/telegram.svg"></a>
   <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="80" src="./icons/discord.svg"></a>
-  
 </div>
-
-</br>
 
 _______________________
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
-
-
-
-
 
 
 
