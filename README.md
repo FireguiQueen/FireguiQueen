@@ -1,7 +1,7 @@
  <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) -->
 
    <!-- ![dd](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/8e8abdca-ee12-4672-8f9f-eb2cb9179dfb) -->
-![db91rcl-18f5db41-2df7-416a-8976-3b56f5bed046](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/0d75954d-c5ed-4e47-8f62-b32d08bd6edc)
+<!-- ![db91rcl-18f5db41-2df7-416a-8976-3b56f5bed046](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/0d75954d-c5ed-4e47-8f62-b32d08bd6edc) -->
 
    
 
