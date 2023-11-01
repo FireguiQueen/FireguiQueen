@@ -5,7 +5,9 @@
 
 <!-- ABOUT ME -->
 # Hello there 👋, I'm Guilherme
-I began my programming journey at the age of 13. I started with python but it was just a hobby. However, since 2019, I've been decicated to the back-end development. 
+I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
+However, since 2019, I've been dedicated to back-end development.
+
 
 ### Hobbies 
 🎹 Playing keyboard </br> 
