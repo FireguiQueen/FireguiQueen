@@ -8,11 +8,9 @@
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
 However, since 2019, I've been dedicated to back-end development.
 
-
 ### Hobbies 
 🎹 Playing keyboard </br> 
 👾 Gaming 
-
 
 </br>
 
@@ -26,7 +24,7 @@ However, since 2019, I've been dedicated to back-end development.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-#### Tongues Proficiency
+#### Tongues Proficiency:
 ![english](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)
 ![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)
 
@@ -44,11 +42,6 @@ However, since 2019, I've been dedicated to back-end development.
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-
-
-
-
 
 </br>
 </br>
