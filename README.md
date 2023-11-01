@@ -1,4 +1,6 @@
-![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89)
+<!-- ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89) -->
+
+![ezgif com-crop](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322)
 
 
 <!-- ABOUT ME -->
