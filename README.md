@@ -16,6 +16,7 @@ I began my programming journey with Python as a hobby at the age of 13, although
 - UFFS - _Digital Circuits_
 - Computer Science Mathematical Fundamentals
 
+<!--
 <details>
   <summary>Other Educational Pursuits </summary>
   <ul>
@@ -25,7 +26,7 @@ I began my programming journey with Python as a hobby at the age of 13, although
     <li>Rocketseat discover: conectar</li>
   </ul>
 </details>
-
+-->
 </br>
 
 ## Skills
