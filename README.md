@@ -9,7 +9,6 @@
 
 
 
-
 <!-- ABOUT ME -->
 # :smiley: About me
 _Here i’m @FireguiQueen, but you can call me Guilherme =)_ 
