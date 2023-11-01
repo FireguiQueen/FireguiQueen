@@ -1,6 +1,6 @@
  <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) -->
 
-[c](https://github.com/FireguiQueen/FireguiQueen/blob/main/gifs/ComputerRetro01.gif)
+[](https://github.com/FireguiQueen/FireguiQueen/blob/main/gifs/ComputerRetro01.gif)
 
 <!-- ABOUT ME -->
 # :smiley: About me
