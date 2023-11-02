@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header")
 
-<! -- ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af) --> 
+<!-- ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af) --> 
 
 
 <!-- ABOUT ME -->
