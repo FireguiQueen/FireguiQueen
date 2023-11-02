@@ -31,18 +31,18 @@ However, since 2019, I've been dedicated to back-end development.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
 #### IDEs:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+
 </br>
 </br>
 
-// SOCIAL MEDIA
+
+<!-- SOCIAL MEDIA -->
 <div align="center">
   <h1> Let's connect </h1> 
-  
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
   <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="80" src="./assets/icons/telegram.svg"></a>
