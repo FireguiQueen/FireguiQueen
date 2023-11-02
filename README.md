@@ -3,7 +3,7 @@
 <!-- ABOUT ME -->
 # Hello there 👋, I'm Guilherme
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
-However, since 2019, I've been dedicated to back-end development.
+However, since 2019, I've been dedicated to back-end development. 
 
 ### Hobbies 
 🎹 Playing keyboard </br> 
@@ -11,11 +11,9 @@ However, since 2019, I've been dedicated to back-end development.
 
 </br>
 
-
 ## Skills  
 
 #### Languages:
-
 ![Java](https://img.shields.io/badge/java-E44C30?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-ebd834?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -27,23 +25,21 @@ However, since 2019, I've been dedicated to back-end development.
 ![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)
 
 #### Database:
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Tools and Technologies:
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
 #### IDEs:
-
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 </br>
 </br>
 
+// SOCIAL MEDIA
 <div align="center">
   <h1> Let's connect </h1> 
   
