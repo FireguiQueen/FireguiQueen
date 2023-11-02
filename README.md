@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header")
 
+![introductionUnscreen-FIREGUIQUEENBACKENDDEVLOPER](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af)
 
-![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89)
 
 <!-- ABOUT ME -->
 # Hello there 👋, I'm Guilherme
@@ -66,7 +66,7 @@ _______________________
 <!-- 
   <!-- ![FireguiQueen - cyberpunk](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322) -->
   <!-- ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
- 
+ <!-- ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89) -->
 
 -- COURSES
 ## 👨‍🎓 Core Education
