@@ -2,7 +2,7 @@
 
 <!-- ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af) --> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Edu+TAS+Beginner+&weight=900&size=80&duration=3000&pause=1000&color=601DF7DA&vCenter=true&random=false&width=435&lines=FireguiQueen%2C+backend+developer;Java++%7C++Spring++%7C++PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Edu+TAS+Beginner+&weight=900&size=80&duration=3000&pause=1000&color=601DF7DA&vCenter=true&random=false&width=1200&height=90&lines=FireguiQueen%2C+backend+developer;Java++%7C++Spring++%7C++PostgreSQL)](https://git.io/typing-svg)
 
 <!-- ABOUT ME -->
 # Hello there 👋, I'm Guilherme
