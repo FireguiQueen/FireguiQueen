@@ -46,10 +46,11 @@ However, since 2019, I've been dedicated to back-end development.
 
 <div align="center">
   <h1> Let's connect </h1> 
+  
   <h3>Feel free to get in touch with me!</h3> 
-  <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="80" src="./icons/proton.svg"></a>
-  <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="80" src="./icons/telegram.svg"></a>
-  <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="80" src="./icons/discord.svg"></a>
+  <a href ="mailto: fireguiqueen@proton.me"> <img title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
+  <a href="https://t.me/fireguiqueen"> <img title="Telegram" width="80" src="./assets/icons/telegram.svg"></a>
+  <a href ="https://discord.com/users/402168526112292864"> <img title="Discord" width="80" src="./assets/icons/discord.svg"></a>
 </div>
 
 _______________________
