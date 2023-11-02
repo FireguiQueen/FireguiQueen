@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header")
+
 ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af) 
 
 
@@ -13,10 +14,8 @@ However, since 2019, I've been dedicated to back-end development.
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10" align="left"/> 
 
 ## Skills  
-
 
 #### Languages:
 
@@ -47,7 +46,6 @@ However, since 2019, I've been dedicated to back-end development.
 
 </br>
 </br>
-
 
 <div align="center">
   <h1> Let's connect </h1> 
