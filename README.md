@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header")
 
 <!-- ABOUT ME -->
-# Hello there 👋, I'm ![Guilherme](#tools-and-technologies)
+# Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">oi</a>
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
 However, since 2019, I've been dedicated to back-end development. 
 
