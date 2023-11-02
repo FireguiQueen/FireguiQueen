@@ -2,8 +2,6 @@
 
 <!-- ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af) --> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=70&duration=2000&pause=1000&color=4E18F7F0&random=false&width=1300&height=120&lines=FireguiQueen%2C+backend+developer;Java++%7C++Spring++%7C++PostgreSQL)](https://git.io/typing-svg)
-
 <!-- ABOUT ME -->
 # Hello there 👋, I'm Guilherme
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
