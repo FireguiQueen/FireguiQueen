@@ -2,6 +2,7 @@
 
 <!-- ABOUT ME -->
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>
+
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
 However, since 2019, I've been dedicated to back-end development. 
 
@@ -11,6 +12,7 @@ However, since 2019, I've been dedicated to back-end development.
 
 </br>
 
+Maybe this part contains some lies(for now)
 ## Skills  
 
 #### Languages:
