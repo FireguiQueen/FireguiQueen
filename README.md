@@ -35,6 +35,8 @@ Maybe this part contains some lies(for now)
 
 #### IDEs:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0C0229.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-413434.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
