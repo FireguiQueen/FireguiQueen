@@ -11,9 +11,7 @@ However, since 2019, I've been dedicated to back-end development.
 
 </br>
 
-Maybe this part contains some lies(for now)
 ## Skills
-
 #### Languages:
 ![Java](https://img.shields.io/badge/java-E44C30?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-ebd834?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
