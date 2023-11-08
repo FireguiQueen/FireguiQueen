@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header")
 
-<!-- ABOUT ME -->
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>
 
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
@@ -13,7 +12,7 @@ However, since 2019, I've been dedicated to back-end development.
 </br>
 
 Maybe this part contains some lies(for now)
-## Skills  
+## Skills
 
 #### Languages:
 ![Java](https://img.shields.io/badge/java-E44C30?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -58,14 +57,11 @@ _______________________
 
 
 
-
 <!-- 
   ![FireguiQueen - cyberpunk](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322)
   ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
   ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89) 
   ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af)
-
-
 
 -- COURSES
 ## 👨‍🎓 Core Education
