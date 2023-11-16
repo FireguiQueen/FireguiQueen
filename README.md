@@ -37,7 +37,7 @@ However, since 2019, I've been dedicated to back-end development.
 <br>
 <br>
 
-<div style="text-align: center" align="justify">
+<div style="text-align: center" align="center">
   <h1> Let's connect </h1> 
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
