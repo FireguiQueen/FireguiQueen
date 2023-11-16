@@ -9,7 +9,7 @@ However, since 2019, I've been dedicated to back-end development.
 🎹 Playing keyboard </br> 
 👾 Gaming 
 
-</br>
+<br>
 
 ## Skills
 #### Languages:
@@ -34,10 +34,10 @@ However, since 2019, I've been dedicated to back-end development.
 ![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-413434.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue)&nbsp;
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-</br>
-</br>
+<br>
+<br>
 
-<div align="center">
+<div style="text-align: center">
   <h1> Let's connect </h1> 
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
@@ -48,7 +48,6 @@ However, since 2019, I've been dedicated to back-end development.
 _______________________
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&theme=buefy&hide_border=true" /></a> 
-| ------------- | ------------- |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=794acc&height=110&section=footer)
 
