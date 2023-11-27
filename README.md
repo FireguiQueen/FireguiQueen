@@ -11,8 +11,6 @@ However, since 2019, I've been dedicated to back-end development.
 🎹 Playing keyboard </br> 
 👾 Gaming 
 
-<br>
-
 ## Skills
 #### Languages:
 ![Java](https://img.shields.io/badge/java-ff2c2c?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
