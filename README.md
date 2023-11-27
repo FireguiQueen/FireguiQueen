@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=268&section=header&text=FireguiQueen,&desc=Backend%20developer&fontAlign=45&fontSize=43&fontAlignY=10&fontAlignY=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=268&section=header&text=FireguiQueen,&desc=Backend%20developer&fontAlign=45&fontSize=43&fontAlignY=10&fontAlignY=100)
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header) -->
 
