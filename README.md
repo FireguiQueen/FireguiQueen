@@ -9,7 +9,7 @@ However, since 2019, I've been dedicated to back-end development.
 
 As a hobby I love playing keyboard and play some games =)
 
-## :computer: Skills
+## :coffee: Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-ebd834?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
