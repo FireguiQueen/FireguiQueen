@@ -7,30 +7,28 @@
 I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
 However, since 2019, I've been dedicated to back-end development. 
 
-### Hobbies 
-🎹 Playing keyboard </br> 
-👾 Gaming 
+As a hobby I love playing keyboard and play some games =)
 
 ## Skills
-#### Languages:
+### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-ebd834?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-#### Tongues Proficiency:
+### Tongues Proficiency
 ![English](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)&nbsp;
 ![Portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
 
-#### Database:
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Tools and Technologies:
+### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### IDEs:
+### IDEs
 ![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f05d84.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
