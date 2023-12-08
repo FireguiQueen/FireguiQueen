@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=FireguiQueen,&desc=Backend%20developer&fontSize=55&fontAlignY=40&fontAlign=44&descAlignY=53&descAlign=53&animation=fadeIn)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=702acc&height=110&section=header) -->
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>
 
@@ -55,11 +54,6 @@ _______________________
 
 
 <!-- 
-  ![FireguiQueen - cyberpunk](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/042d2b52-9637-4de7-8b98-389504712322)
-  ![Dark Souls - Welcome](https://user-images.githubusercontent.com/98475125/207168782-1983bc07-614d-40ca-96ba-5693e7357d5b.gif) 
-  ![final real final](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/054612d6-6257-438b-b332-9dfdad89eb89) 
-  ![introduc](https://github.com/FireguiQueen/FireguiQueen/assets/98475125/47909ce4-e2e3-4c75-b04c-b6215e74e7af)
-
 -- COURSES
 ## 👨‍🎓 Core Education
 - Havard - _Computer Science 50 (CS50)_ 
