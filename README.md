@@ -13,10 +13,10 @@ As a hobby I love playing keyboard and play some games =)
 ## :coffee: Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-ebd834?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ### Tongues Proficiency
 ![English](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)&nbsp;
@@ -28,6 +28,7 @@ As a hobby I love playing keyboard and play some games =)
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### IDEs
 ![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f05d84.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
