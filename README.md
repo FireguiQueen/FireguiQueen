@@ -2,11 +2,9 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>
+I began my programming journey at the age of 13 with Python, but it was just a hobby. However, since 2019, I've been dedicated to back-end development. I have been studying Java and some other server-side technologies.
 
-I began my programming journey at the age of 13, starting with Python, but it was just a hobby. 
-However, since 2019, I've been dedicated to back-end development. 
-
-As a hobby I love playing keyboard and play some games =)
+As a hobby, I love playing the keyboard and playing some rich history games, like The Witcher, Resident Evil, etc. =)
 
 <br>
 
