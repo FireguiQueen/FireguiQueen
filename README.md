@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=FireguiQueen,&desc=Backend%20developer&fontSize=55&fontAlignY=40&fontAlign=44&descAlignY=53&descAlign=53&animation=fadeIn)
 
 
-# Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>
+# Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
 
 <br>
 
