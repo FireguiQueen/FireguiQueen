@@ -2,7 +2,7 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-.. A self-taught student of backend by using Java as the main language. I'm willing to grow my networking, if you're looking for a friend to study with, don't hesite to get in touch with me.  
+.. A self-taught student of backend, using Java as the main language. I'm willing to grow my network. If you're looking for a friend to study with, don't hesitate to get in touch with me.
 
 <br>
 
