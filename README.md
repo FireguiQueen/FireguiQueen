@@ -2,7 +2,7 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-.. A self-taught student of backend, using __Java__ primarily :)
+.. A self-taught student of backend, using __Java__ primarily :) <br>
 .. A curious person a
 
 
