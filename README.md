@@ -19,6 +19,7 @@
 
 ### Tongues Proficiency
 ![English](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)&nbsp;
+![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp;
 ![Portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
 
 ### Database
