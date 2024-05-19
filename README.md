@@ -28,7 +28,7 @@
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%231211.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%531211.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### IDEs
 ![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f05d84.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
