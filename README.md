@@ -11,8 +11,8 @@
 
 ## :coffee: Skills
 ### Languages
-![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; <br>
-![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;
+![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-2e2d2b?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
