@@ -12,7 +12,7 @@
 ## :coffee: Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  <br>
+![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-2e2d2b?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
@@ -29,7 +29,7 @@
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-2e2d2b.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-2e2d2b.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <!--### IDEs
