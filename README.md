@@ -24,7 +24,7 @@
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=%20ms%20SQL&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/ms%20SQL%20SQl-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
