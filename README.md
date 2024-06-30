@@ -32,10 +32,6 @@
 ![GitHub](https://img.shields.io/badge/github-2e2d2b.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<!--### IDEs
-![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-f05d84.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)&nbsp;
-![Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; -->
-
 <br>
 <br>
 
