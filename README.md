@@ -23,7 +23,7 @@ Currently, I am dedicated to ongoing study to deepen my knowledge of low-level a
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 ### Database
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
