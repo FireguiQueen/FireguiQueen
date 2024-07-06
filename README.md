@@ -2,9 +2,9 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-.. A self-taught student of backend, primarily using __Java__. <br>
-.. A curious person who always tries to understand how things work underneath. <br>
-.. A guy who is focused in learning how a computer really works!
+My interest in software development began when I realized the possibility of creating functionalities for online games that I used to play in my childhood. Since then, I've maintained this interest and constantly seek to create solutions for various problems!
+
+Currently, I am dedicated to ongoing study to deepen my knowledge of low-level aspects of machines. I aim to fully understand how computers work, with the goal of someday being able to make meaningful contributions to the Linux Kernel :)
 
 
 <br>
