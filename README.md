@@ -12,10 +12,10 @@
 ## :coffee: Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  
+<!-- ![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-2e2d2b?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-2e2d2b?style=for-the-badge&logo=markdown&logoColor=white)&nbsp; -->
 
 ### Tongues Proficiency
 ![English](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)&nbsp;
@@ -23,8 +23,9 @@
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
