@@ -30,7 +30,7 @@ Currently, I am dedicated to ongoing study to deepen my knowledge of low-level a
 ### Tools and Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-2e2d2b.svg?style=for-the-badge&logo=github&logoColor=white) <br>
+![GitHub](https://img.shields.io/badge/github-2e2d2b.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <br>
