@@ -4,12 +4,12 @@
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
 My interest in software development began when I realized the possibility of creating functionalities for online games that I used to play in my childhood. Since then, I've maintained this interest and constantly seek to create solutions for various problems!
 
-Currently, I am dedicated to ongoing study to deepen my knowledge of low-level aspects of machines. I aim to fully understand how computers work, with the goal of someday being able to make meaningful contributions to the Linux Kernel :)
-
+Currently, I am dedicated to learn more about machine's low-level aspects of. I aim to fully understand how computers work, with the goal of someday being able to make usefull contributions to the Linux Kernel :)
 
 <br>
 
 ## :coffee: Skills
+
 ### Languages
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 <!-- ![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  
@@ -40,7 +40,7 @@ Currently, I am dedicated to ongoing study to deepen my knowledge of low-level a
   <h1> Let's connect </h1> 
   <h3>Feel free to get in touch with me!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
-  <a href="https://t.me/fireguiqueen"> <img alt="telegram" title="Telegram" width="80" src="./assets/icons/telegram.svg"></a>
+  <a href="https://t.me/fireguiqueen"> <img alt="linkedin" title="Telegram" width="80" src="./assets/icons/linkedin.svg"></a>
   <a href ="https://discord.com/users/402168526112292864"> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
 </div>
 
