@@ -38,7 +38,7 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 
 <div style="text-align: center" align="center">
   <h1> Let's connect </h1> 
-  <h2>You can contact me at any time!</h3> 
+  <h3>You can contact me at any time!</h3> 
   <a href ="mailto: fireguiqueen@proton.me"> <img alt="prontmail" title="Prontmail" width="80" src="./assets/icons/proton.svg"></a>
   <a href="https://t.me/fireguiqueen"> <img alt="linkedin" title="Telegram" width="80" src="./assets/icons/linkedin.svg"></a>
   <a href ="https://discord.com/users/402168526112292864"> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
