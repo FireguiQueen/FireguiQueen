@@ -19,7 +19,7 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 
 ### Tongues Proficiency
 ![Portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
-![English](https://img.shields.io/badge/B2-english-2ea44f?style=for-the-badge)&nbsp;
+![English](https://img.shields.io/badge/C1-english-2ea44f?style=for-the-badge)&nbsp;
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 ### Database
