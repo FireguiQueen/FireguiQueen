@@ -11,7 +11,7 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ## :coffee: Skills
 
 ### Languages
-![C](https://img.shields.io/badge/C-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-%231572B6.svg?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 <!-- ![Javascript](https://img.shields.io/badge/javascript-ede94b?style=for-the-badge&logo=javascript&logoColor=171505)&nbsp;  
