@@ -2,8 +2,7 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-My interest in software development began when I realized the possibility of creating functionalities for online games that I used to play in my childhood. Since then, I've maintained this interest and constantly seek to create solutions for various problems!
-
+<!-- My interest in software development began when I realized the possibility of creating functionalities for online games that I used to play in my childhood. Since then, I've maintained this interest and constantly seek to create solutions for various problems! -->
 Currently, I am dedicated to learn more about machine's low-level aspects of. I aim to fully understand how computers work, with the goal of someday being able to make usefull contributions to the Linux Kernel :)
 
 <br>
