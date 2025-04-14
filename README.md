@@ -26,7 +26,7 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 
 ### Tools, technologies, libraries and frameworks 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![sdl](https://img.shields.io/badge/SDL-Simple%DirectMedia%Layer-f94449?style=for-the-badge&logoColor=white)&nbsp;
+![sdl](https://img.shields.io/badge/SDL-SimpleDirectMediaLayer-f94449?style=for-the-badge&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) --> 
