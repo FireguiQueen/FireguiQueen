@@ -27,13 +27,11 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 -->
 
-### Tools, technologies, libraries and frameworks 
-<div align="center">
-  
+### Tools, technologies, libraries and frameworks   
 ![linux, git](https://skillicons.dev/icons?i=linux,git&theme=light)
 ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=for-the-badge&logoColor=white)&nbsp;
+  <img src="https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=for-the-badge&logoColor=white" height="28" style="vertical-align: middle;"/>
 
-</div>
 <!--
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
