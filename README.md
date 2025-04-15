@@ -28,6 +28,8 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 -->
 
 ### Tools, technologies, libraries and frameworks 
+![linux, git](https://skillicons.dev/icons?i=linux,git&theme=light)
+
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![sdl](https://img.shields.io/badge/SDL-Simple%20DirectMedia%20Layer-6D70C6?style=for-the-badge&logoColor=white)&nbsp;
