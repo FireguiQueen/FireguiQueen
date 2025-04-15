@@ -10,7 +10,7 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ## :coffee: Skills
 
 ### Languages
-![c,java](https://skillicons.dev/icons?i=c,java)
+![c,java](https://skillicons.dev/icons?i=c,java&theme=light)
 <!--
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -21,10 +21,11 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ![english](https://img.shields.io/badge/C1-english-2ea44f?style=for-the-badge)&nbsp;
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
+<!--
 ### Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
+-->
 
 ### Tools, technologies, libraries and frameworks 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
