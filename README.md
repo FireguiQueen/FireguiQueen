@@ -10,9 +10,11 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ## :coffee: Skills
 
 ### Languages
+![c,java](https://skillicons.dev/icons?i=c,java)
+<!--
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-
+-->
 
 ### Tongues Proficiency
 ![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
