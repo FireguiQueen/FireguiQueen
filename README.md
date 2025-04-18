@@ -16,9 +16,9 @@ Currently, I am dedicated to learn more about machine's low-level aspects of. I 
 ![java](https://img.shields.io/badge/java-f94449?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 -->
 
-### 🗣️ Tongues Proficiency
+### 🗣️ Tongues proficiency
 ![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
-![english](https://img.shields.io/badge/C1-english-2ea44f?style=for-the-badge)&nbsp;
+![english](https://img.shields.io/badge/C1-english-2ea44f?style=flat)&nbsp;
 <!-- ![German](https://img.shields.io/badge/A1-german-A67B5B?style=for-the-badge) &nbsp; -->
 
 <!--
