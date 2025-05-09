@@ -2,9 +2,9 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-I'm currently focusing on learning more about the low-level aspects of machines.. that means diving deeper into math and physics as well. (and I plan to stay on this path for a long time)
-
-I aim to fully understand how computers work someday :) I also love games, so I'm studying C to eventually build my own game engine (though that’s going to take a while).
+🌱 I'm currently focused on deepening my understanding of computer science.  
+🧠 I enjoy playing [Go](https://online-go.com/), performing music, and watching cartoons in my free time.  
+✨ My long-term goal is to build my own game engine in C, using custom physics libraries I'll develop myself.
 
 <br>
 
