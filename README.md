@@ -36,8 +36,7 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Durgesh's github stats"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireguiqueen&layout=compact&theme=transparent&hide_border=true"/></a> 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireguiqueen&show_icons=true&bg_color=00000000)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=794acc&height=110&section=footer)
 
