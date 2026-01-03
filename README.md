@@ -34,8 +34,6 @@
   <a href ="https://discord.com/users/402168526112292864"> <img alt="discord" title="Discord" width="80" src="./assets/icons/discord.svg"></a>
 </div>
 
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=794acc&height=110&section=footer)
 
 
