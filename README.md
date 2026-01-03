@@ -36,8 +36,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=794acc&height=110&section=footer)
 
 
