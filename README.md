@@ -11,7 +11,7 @@
 ## :coffee: Skills
 
 ### 👾 Languages
-![c,c++,java](https://skillicons.dev/icons?i=c,java&theme=light)
+![languages](https://skillicons.dev/icons?i=c,java,c++&theme=light)
 
 ### 🗣️ Tongues proficiency
 ![portuguese](https://img.shields.io/badge/native-portuguese-eeb22d?style=for-the-badge)&nbsp;
