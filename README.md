@@ -2,9 +2,9 @@
 
 
 # Hello there 👋, I'm <a href="https://github.com/FireguiQueen/FireguiQueen#tools-and-technologies">Guilherme</a>..
-🌱 I'm currently studying a lot of math (allegedly)!  
-🧠 I enjoy playing Go (quite bad at it tho), performing music, and watching cartoons in my free time ;)  
-✨ My long-term goal is to build my own game engine in C, using custom physics libraries I'll develop myself.
+🧠 I'm currently studying a lot of math an C (allegedly)!  
+🌱 I enjoy playing Go (quite bad at it tho), performing music, watching cartoons and play some games on steam.  
+✨ My long-term goal is to build my own game engine in C
 
 <br>
 
